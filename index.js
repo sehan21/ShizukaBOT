@@ -51,14 +51,14 @@ const vcard = 'BEGIN:VCARD\n'
             + 'ORG: Pengembang Shizuka BOT;\n' 
             + 'TEL;type=CELL;type=VOICE;waid=6281281872699:+62 812-8187-2699\n' 
             + 'END:VCARD'
-prefix = '$'
+prefix = '-'
 blocked = []   
 limitawal = 99999
 memberlimit = 0
 cr = '*SHIZUKA THIS IS ALREADY VERIFIED*'
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6281212594112@s.whatsapp.net"] 
+const ownerNumber = ["6288291185784@s.whatsapp.net"] 
 const pacarNumber = ["6281281872699@s.whatsapp.net"]
 /************************************/
 
